@@ -45,3 +45,16 @@ it sends PWM signals to Fan and Stepper motor
 • Burglar alarm
 o This system consists of 555 Timer, some capacitors, resistors and a speaker connected in a 
 specific way to make a buzzing sound
+Motor Driver Unit
+o This unit is different for both Drapes(we use Stepper motor driver i.e. ULN2804) and fan 
+(we use motor driver L293183)
+4 Architecture
+• 4.1 Behavioral Diagram
+– 4.1.1 High Level Flow chart Behavioral Diagram
+![image](https://user-images.githubusercontent.com/101462262/164988796-97338700-31f3-4f7d-ae1f-2d5ba29683f7.png)
+
+– 4.1.2 Low Level Flow chart Behavioural Diagram
+– 4.1.2 Low Level Flow chart Behavioural Diagram
+• 4.2 Structural Diagram
+– 4.2.1 High Level UML Use Case Structural Diagram
+– 4.2.2 Low Level UML Use Case Structural Diagram
