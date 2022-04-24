@@ -54,7 +54,12 @@ o This unit is different for both Drapes(we use Stepper motor driver i.e. ULN280
 ![image](https://user-images.githubusercontent.com/101462262/164988796-97338700-31f3-4f7d-ae1f-2d5ba29683f7.png)
 
 – 4.1.2 Low Level Flow chart Behavioural Diagram
-– 4.1.2 Low Level Flow chart Behavioural Diagram
+![image](https://user-images.githubusercontent.com/101462262/164988902-c1e02eee-9523-41c4-90c2-5428d110e641.png)
+
 • 4.2 Structural Diagram
 – 4.2.1 High Level UML Use Case Structural Diagram
+![image](https://user-images.githubusercontent.com/101462262/164988921-a44453f2-242b-4b4e-9187-cb7bdcec95f1.png)
+
 – 4.2.2 Low Level UML Use Case Structural Diagram
+![image](https://user-images.githubusercontent.com/101462262/164989012-1c6ead65-e713-440c-8843-e2fc5aed0638.png)
+
